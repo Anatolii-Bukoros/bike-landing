@@ -1,4 +1,4 @@
-# Bike Landing page
+# Bike landing page
 
 1. The landing page for strategic agency. Stack: HTML5, SASS, BEM;
 
