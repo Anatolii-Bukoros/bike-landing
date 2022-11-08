@@ -7,6 +7,6 @@ The landing page for strategic agency. Stack: HTML5, SASS, BEM;
 
 Fully responsive layout was made by using CSS Grid and Flexbox;
 
-Design of the landing page you could find [HERE]([https://<your_account>.github.io/<repo_name>/](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version));
+Design of the landing page you could find [HERE](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version);
 
-Click the link to see Demo;
+Click the link to see [DEMO](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version);
