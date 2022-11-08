@@ -9,4 +9,4 @@ Fully responsive layout was made by using CSS Grid and Flexbox;
 
 Design of the landing page you could find [HERE](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version);
 
-Click the link to see [DEMO](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version);
+Click the link to see [DEMO](https://anatolii-bukoros.github.io/bike-landing/);
